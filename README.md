@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/Techdudectrl/Techdudectrl/blob/main/assets/banner.png" alt="Banner" width="100%">
-</p>
-
 # 👋 Hi, I'm Samuel Gbenga  
 
 <p align="center">
@@ -17,7 +12,7 @@
 
 ## 🔧 Skills & Tools
 
-### 🧠 AI / Machine Learning
+### 🧠 AI Developer
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, HuggingFace)  
 - NLP, Computer Vision, Time Series Forecasting  
 - Model Deployment: Streamlit, FastAPI, Flask  
@@ -37,7 +32,7 @@
 
 ## 🛠 Tech Stack  
 
-**🤖 AI & Machine Learning**  
+**🤖 AI Developer**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
@@ -97,17 +92,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Techdudectrl&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Techdudectrl/Techdudectrl/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-- 🔹 [AI Chatbot](#) – NLP-powered chatbot for IT support automation  
-- 🔹 [Portfolio Website](#) – Personal web portfolio built with React + TailwindCSS  
-- 🔹 [Stock Price Predictor](#) – ML model predicting stock/forex prices  
 
 ---
 
