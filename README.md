@@ -102,4 +102,4 @@
 
 ---
 
-⭐️ *AI Developer, IT Support Specialist, and Web Developer — building tech solutions one project at a time.*  
+⭐️ AI Developer, IT Support Specialist, and Web Developer, Building tech solutions one project at a time.
